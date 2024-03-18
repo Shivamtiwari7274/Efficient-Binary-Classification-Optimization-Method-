@@ -1,1 +1,1 @@
-# Efficient-Binary-Classification-Optimization-Method-
+In this lab, we addressed binary classification problems with optimization methods. We loaded the wine dataset, preprocessed it, and split it into training and testing sets. Then, we implemented ALG-LAB8 optimization algorithm to solve the constrained optimization problem. We experimented with different loss functions and constraint sets, analyzing their impact on objective function value and accuracy
